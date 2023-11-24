@@ -8,5 +8,6 @@ void foo(int a)
     {
         std::cout << "Hi!" << "  ";
     }
+    std::cout << std::endl << "Your number is: " << a;
 }
 
